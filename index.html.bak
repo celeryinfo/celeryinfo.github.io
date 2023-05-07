@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Mirrored from evon.cc/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 May 2023 05:06:28 GMT -->
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="icon" href="favicon.png">
+    <meta name="viewport" content="width=device-width">
+    <link rel="preconnect" href="https://fonts.nexuspipe.com/">
+    <link rel="preconnect" href="https://fonts-cdn.nexuspipe.com/" crossorigin="">
+    <link href="https://fonts.nexuspipe.com/css2?family=Inter&amp;display=swap"
+      rel="stylesheet">
+    <meta http-equiv="content-security-policy" content="">
+    <link href="_app/immutable/assets/_layout.55c70f2c.css" rel="stylesheet">
+    <link href="_app/immutable/assets/Button.efd8ddbb.css" rel="stylesheet">
+    <link href="_app/immutable/assets/_page.85c5a758.css" rel="stylesheet">
+    <link href="_app/immutable/assets/card.9daa7ccc.css" rel="stylesheet">
+    <link rel="modulepreload" href="_app/immutable/entry/start.5ee81076.js">
+    <link rel="modulepreload" href="_app/immutable/chunks/index.b47f1510.js">
+    <link rel="modulepreload" href="_app/immutable/chunks/singletons.4002a9b6.js">
+    <link rel="modulepreload" href="_app/immutable/entry/app.1c7d7402.js">
+    <link rel="modulepreload" href="_app/immutable/entry/_layout.svelte.a5f05975.js">
+    <link rel="modulepreload" href="_app/immutable/chunks/Button.ca56e81f.js">
+    <link rel="modulepreload" href="_app/immutable/entry/_layout.ts.822e9be0.js">
+    <link rel="modulepreload" href="_app/immutable/chunks/_layout.79cb23d1.js">
+    <link rel="modulepreload" href="_app/immutable/entry/_page.svelte.f1fd575f.js">
+    <link rel="modulepreload" href="_app/immutable/chunks/card.0a4ba47e.js">
+    <title>Celery - Roblox Executor</title>
+    <!-- HEAD_svelte-a2dzyg_START -->
+    <meta name="description" content="Clean and slick UI with a custom DLL, bypasses Byfron in 2023, designed for Microsoft Store Roblox!">
+    <meta name="theme-color" content="#8200fb">
+    <!-- HEAD_svelte-a2dzyg_END -->
+    <style>html,body{padding:0 0;margin:0 0;overflow-x: hidden;overflow-y: auto;}</style>
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">
+      <!-- HTML_TAG_START --><!-- Copyright (c) 2023 Expo. All Rights Reserved. --><!-- HTML_TAG_END -->
+      <nav style="position: fixed; top: 0; z-index: 1000; backdrop-filter: blur(32px);"
+        class="svelte-sa2ywv">&nbsp;<span style="color: #33ff33;"><img src="favicon.png"
+            alt="" style="width: 46px; height: 45px;"></span><a class="button fill shimmer svelte-1b0q59s"
+          style="--background: #8200fb;margin-left: auto;" href="https://discord.gg/celery"
+          rel="noreferrer">Download</a></nav>
+      <main class="svelte-w1i6j8">
+        <section class="top alwaysSmall svelte-w1i6j8" style="backdrop-filter: blur(16px);">
+          <div class="flex svelte-w1i6j8">
+            <div class="svelte-w1i6j8"></div>
+            <div class="svelte-w1i6j8">
+              <h1 style="font-size: 2em;margin: 0 0;">Celery</h1>
+              <p>Best Roblox executor bypasses Byfron.</p>
+              <div style="z-index: 1;"><span style="color: #33ff33;"><a class="button fill shimmer svelte-1b0q59s"
+                    style="--background: #8200fb;" href="https://discord.gg/celery"
+                    target="_blank" rel="noreferrer">Download Now</a></span></div>
+            </div>
+          </div>
+        </section>
+        <div style="background: linear-gradient(180deg,#000,#080808,#111,#1a1a1a);z-index:-100;">
+          <section class="img alwaysSmall defaultPos svelte-w1i6j8">
+            <div class="flex svelte-w1i6j8" style="--flex-direction: row-reverse;">
+              <div style="filter: blur(0);" class="defaultPos svelte-w1i6j8"><img
+                  src="i/script-list.png" alt="evon script list" class="svelte-w1i6j8"></div>
+              <div style="display:flex;align-items:center;justify-content:center;height:100vh;"
+                class="svelte-w1i6j8">
+                <div style="text-shadow: 4px 4px 2px #000000">
+                  <h1>Built-In Script List</h1>
+                  <p>No more searching infinitely for scripts! Celery has
+                    scripts you can run directly from the UI. </p>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="img mh svelte-w1i6j8">
+            <div class="flex svelte-w1i6j8">
+              <div class="svelte-w1i6j8"><img src="i/ui-settings.png" alt="evon script list"
+                  class="svelte-w1i6j8"></div>
+              <div class="svelte-w1i6j8">
+                <h1>Settings for every use-case</h1>
+                <p>Everything from smooth injection, to auto-execute, to an FPS
+                  unlocker and beyond - available in Evon's settings </p>
+              </div>
+            </div>
+          </section>
+          <section class="img svelte-w1i6j8" style="min-height: 75vh;">
+            <div class="flex svelte-w1i6j8" style="--flex-direction: row-reverse;">
+              <div class="svelte-w1i6j8"><img src="i/editor.png" alt="evon editor"
+                  class="svelte-w1i6j8"></div>
+              <div class="svelte-w1i6j8">
+                <h1>Powerful IDE</h1>
+                <p>Celery's Integrated Development Environment, using the Monaco
+                  editor, provides an Optimized Scripting Experience, allowing
+                  you to reach your true scripting potential.</p>
+                <div style="z-index: 1;"><span style="color: #33ff33;"><a class="button fill shimmer svelte-1b0q59s"
+                      style="--background: #8200fb;" href="https://discord.gg/celery"
+                      target="_blank" rel="noreferrer">Download Now</a></span></div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <section style="min-height: 30vh;background: #0001;padding: 50px 0;margin-top:120px;"
+          id="faq" class="svelte-w1i6j8">
+          <div class="flex svelte-w1i6j8" style="padding: 10px;">
+            <div class="svelte-w1i6j8">
+              <h1><span style="color: #99ff99;">FAQ</span></h1>
+              <p><span style="color: #33ff33;">People often have questions, we
+                  like to provide answers</span></p>
+              <div class="cards svelte-l719jh" data-help-ive-fallen-and-i-cant-get-up="i need @someone"
+                style="--6M-NkQAo-3E: #1e2030;" data-waaaaaaaaaaaaaaaaaaaaaaa="0.011859305340228306">
+                <div class="card svelte-173g913" data-no-hover-boi="false">
+                  <div>
+                    <h3 style="font-weight: 300;">What scripts does Celery
+                      support? </h3>
+                    <p>Since this is an executor made for bypass Byfron &amp;
+                      Microsoft Store version of Roblox. Celery was not intended
+                      for a mass audience, or to work in every game, or to be
+                      ANYTHING at all like Synapse or KRNL.</p>
+                  </div>
+                </div>
+                <div class="card svelte-173g913" data-no-hover-boi="false">
+                  <div>
+                    <h3 style="font-weight: 300;">Why does Virustotal and my
+                      antivirus say Celery is a virus? </h3>
+                    <p>Celery is not a virus.<br>
+                      The reason these flags get falsely set off and detected as
+                      a malicious software, is because of the DLLs in Celery
+                      which are used to inject into Roblox. This is a common
+                      phenomenon in all executors called “False Positives”</p>
+                  </div>
+                </div>
+                <div class="card svelte-173g913" data-no-hover-boi="false">
+                  <div>
+                    <h3 style="font-weight: 300;">How does Celery earn money? </h3>
+                    <p>Celery is a public welfare executor, so we didn't even
+                      plan to make money out of this executor!</p>
+                  </div>
+                </div>
+                <div class="card svelte-173g913" data-no-hover-boi="false">
+                  <div>
+                    <h3 style="font-weight: 300;" id="discord">I'm having an
+                      issue with Celery - Where can I get assistance? </h3>
+                    <p>You can join Evon's Discord right <a href="https://discord.gg/celery"
+                        style="color: #33ff33;">here</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section style="min-height: 30vh;background: #0001;padding: 50px 0;text-align:center;min-height:40vh;"
+          id="dl" class="svelte-w1i6j8">
+          <div class="flex nine-eleven-was-caused-by-this svelte-w1i6j8" style="max-width: 800px;">
+            <div style="padding: 10px 20px; border: 4px solid #8200fb;border-radius:16px;"
+              class="svelte-w1i6j8">
+              <h1><span style="color: #33ff33;">Ready to start using Celery?</span></h1>
+              <a class="button fill shimmer svelte-1b0q59s" style="--background: #8200fb;"
+                href="https://discord.gg/celery" rel="noreferrer">Download for
+                free</a>
+              <p style="opacity: 0.5;"><span style="color: #99ff99;">(Did I
+                  mention there's no key system?)</span></p>
+              <p style="opacity: 0.5;">©2023 Celery, All Right Reserved</p>
+            </div>
+          </div>
+        </section>
+      </main>
+      <script>
+				{
+					__sveltekit_1kmdafq = {
+						env: {},
+						base: new URL(".", location).pathname.slice(0, -1),
+						element: document.currentScript.parentElement
+					};
+
+					const data = [null,null];
+
+					Promise.all([
+						import("_app/immutable/entry/start.5ee81076.js"),
+						import("_app/immutable/entry/app.1c7d7402.js")
+					]).then(([kit, app]) => {
+						kit.start(app, __sveltekit_1kmdafq.element, {
+							node_ids: [0, 2],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script> </div>
+  </body>
+  <!-- Mirrored from evon.cc/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 May 2023 05:06:35 GMT -->
+</html>
